@@ -1,5 +1,6 @@
 API_TOKEN = "6012171080:AAG_JJpDns1tNvMLFm0eE20mImpFOqEWw-8"
 
+# Hello
 #                [0]             [1]                  [2]                        [3]                        [4]                       [5]             [6]          [7]                  [8]
 # user_id: [rdyBtnPressed, QuestStartTime, [w1btn, w2btn ... wnbtn], [w1btn, w2btn ... wnbtn], [q1Press, q2Press, lastQPress], "крышка"->Entered, parkPhotoID, selfieSent?, "континенталь"->Entered]
 user_database = dict()
